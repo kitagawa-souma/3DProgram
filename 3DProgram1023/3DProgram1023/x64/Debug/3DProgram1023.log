@@ -1,0 +1,4 @@
+﻿  DirectGraphics.cpp
+C:\Users\tyskf\Documents\3DProgram1023\3DProgram1023\3DProgram1023\DirectGraphics.cpp(442,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\tyskf\Documents\3DProgram1023\3DProgram1023\3DProgram1023\DirectGraphics.cpp(576,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  3DProgram1023.vcxproj -> C:\Users\tyskf\Documents\3DProgram1023\3DProgram1023\x64\Debug\3DProgram1023.exe
